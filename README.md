@@ -16,14 +16,17 @@ SQL
 Postman
 Github
 
+
 Tech skills
 Software testing
 Creating test cases
 Reporting bugs
 
+
 My Test Documentation
 Bug Reports
 Test Cases
+
 
 My Projects
 VerfiQA App
