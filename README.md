@@ -2,7 +2,7 @@ Portfolio
 
 About me
 
-My name is Dawid Ryś. My fascination with IT is an interest in the possibilities offered by modern technology technology. I plan to develop my skills in this field and be a part of it dynamic world of technology
+My name is Dawid Ryś. My fascination with IT is an interest in the possibilities offered by modern technology. I plan to develop my skills in this field and be a part of it dynamic world of technology
 
 Communication and Teamwork
 
